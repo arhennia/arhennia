@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhennia&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhennia&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&cache_seconds=1800"/>
 </p>
 
 <br/>
