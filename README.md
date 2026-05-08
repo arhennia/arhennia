@@ -1,4 +1,4 @@
-<img src = "ChatGPT Image May 8, 2026, 09_13_35 PM.png"/>
+<img src = "Welcome to Arti's GitHub (1).png"/>
 
 <p align="center">
 
