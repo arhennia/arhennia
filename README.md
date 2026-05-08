@@ -63,9 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=arhennia&theme=black-ice&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhennia&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&cache_seconds=1800"/>
-</p>
 
 <br/>
 
