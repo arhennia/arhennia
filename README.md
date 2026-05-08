@@ -1,4 +1,4 @@
-<img src = "githubanner.png"/>
+<img src = "Welcome to Arti's GitHub.png"/>
 
 <p align="center">
 
