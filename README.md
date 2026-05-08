@@ -20,7 +20,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b>I'm Arti Reddy</b></em>, a Computer Science Engineering student passionate about building aesthetic and creative tech projects. I enjoy learning C++, DSA, AI/ML, frontend development, and exploring the intersection between technology and art. Currently working on small projects to improve my development skills while growing as a designer and programmer.
+  Hello There! <em><b>I'm Arti</b></em>, a Computer Science Engineering student passionate about building aesthetic and creative tech projects. I enjoy learning C++, DSA, AI/ML, frontend development, and exploring the intersection between technology and art. Currently working on small projects to improve my development skills while growing as a designer and programmer.
 </p>
 
 <br/>
