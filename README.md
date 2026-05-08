@@ -49,11 +49,35 @@
 </p>
 
 <br/>
+<br/>
 
 <h2 align="center"> <em>⌬ Statistics</em> </h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arhennia&color=grey&style=flat-square"/>
+</p>
+
 <div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhennia&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhennia&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arhennia&theme=black-ice&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhennia&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000"/>
+</p>
+
+<br/>
+
+<h2 align="center"> <em>⌬ Currently Playing</em> </h2>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ldo03cnekjbl7ta7x2139pcb6&cover_image=true&theme=novatorem&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false"/>
+</p>
 </div>
 
 
