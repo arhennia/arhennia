@@ -57,10 +57,6 @@
   <img src="https://komarev.com/ghpvc/?username=arhennia&color=grey&style=flat-square"/>
 </p>
 
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhennia&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
 <br/>
 
 <p align="center">
@@ -73,11 +69,9 @@
 
 <br/>
 
-<h2 align="center"> <em>⌬ Currently Playing</em> </h2>
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ldo03cnekjbl7ta7x2139pcb6&cover_image=true&theme=novatorem&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false"/>
-</p>
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhennia&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
 </div>
 
 
