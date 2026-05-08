@@ -1,12 +1,7 @@
 <img src = "githubanner.png"/>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/artireddy2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-   <a href="https://wellfound.com/u/arti-reddy" target="_blank">
-    <img src="https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=wellfound&logoColor=white" />
-  </a>
+
   <a href="https://www.instagram.com/kwrtstt/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
