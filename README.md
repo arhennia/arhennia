@@ -1,17 +1,5 @@
 <img src = "Welcome to Arti's GitHub (1).png"/>
 
-<p align="center">
-
-  <a href="https://www.instagram.com/kwrtstt/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://in.pinterest.com/arhennia/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  
-</p>
-
-
 <br>
 
 <h2 align="center"> <img src="title1.png" width="25"/> <em>About  me </em></h2>
