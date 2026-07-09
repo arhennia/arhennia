@@ -1,62 +1,17 @@
-<img src = "Welcome to Arti's GitHub (1).png"/>
+# Hi, I'm Arti
 
-<br>
+I'm a Computer Science Engineering student passionate about product development, management, and building creative tech projects. I enjoy learning C++, DSA, AI/ML, frontend development, and exploring the intersection between technology and art. Currently, I am working on projects to improve my development skills while growing as a designer and programmer.
 
-<h2 align="center"> <img src="title1.png" width="25"/> <em>About  me </em></h2>
+### About Me
+- **Role:** Computer Science Engineering Student
+- **Focus:** Product Development & Management, Java, DSA & AI/ML
+- **Building:** Aesthetic frontend projects
+- **Identity:** Artist | Designer | Developer
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
+### Tech Stack
 
-<p>
-  Hello There! <em><b>I'm Arti</b></em>, a Computer Science Engineering student passionate about building aesthetic and creative tech projects. I enjoy learning C++, DSA, AI/ML, frontend development, and exploring the intersection between technology and art. Currently working on small projects to improve my development skills while growing as a designer and programmer.
-</p>
-
-<br/>
-
-<p align="center">
-   ⌬ <em><b>Computer Science Engineering Student</b></em><br/>
-   ⚙ <em><b>Exploring Java, DSA & AI/ML</b></em><br/>
-   ⌘ <em><b>Building aesthetic frontend projects</b></em><br/>
-   ✦ <em><b>Artist • Designer • Developer</b></em><br/>
-</p>
-
-<br/>
-<br/>
-<h2 align="center"> <img src="title2.png" width="25"/> <em> Technologies </em> </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<br/>
-<br/>
-
-<h2 align="center"> <em>⌬ Statistics</em> </h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arhennia&color=grey&style=flat-square"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arhennia&theme=black-ice&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,git,mysql,py,mongodb" />
 
 
-<br/>
-
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arhennia&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-</div>
-
-
+### Contact
+- [Email](mailto:chinarireddy2005@gmail.com)
