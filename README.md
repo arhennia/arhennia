@@ -10,7 +10,7 @@ I'm a Computer Science Engineering student passionate about product development,
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,git,mysql,py,mongodb" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,nextjs,git,mysql,mongodb" />
 
 
 ### Contact
