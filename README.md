@@ -1,6 +1,6 @@
 <img align="right" width="240" src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" />
 
-### Hi there, I'm Arti 👋
+### Hi there, I'm Arti!
 
 I'm a Computer Science Engineering student passionate about product development, management, and building creative tech projects. I enjoy learning C++, Java, DSA, AI/ML, frontend development, and exploring the intersection between technology and art.
 
@@ -38,8 +38,8 @@ Currently, I am working on projects to improve my development skills while growi
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" /> &nbsp;
-<img height="28" src="https://simpleicons.org/icons/adobeexpress.svg" alt="adobe express" /> &nbsp;
-<img height="28" src="https://simpleicons.org/icons/adobefresco.svg" alt="adobe fresco" />
+<img height="28" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-express-icon.svg" alt="adobe express" /> &nbsp;
+<img height="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968393.png" alt="adobe fresco" />
 
 ---
 
