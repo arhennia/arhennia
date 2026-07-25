@@ -2,19 +2,19 @@
 
 ### ⋆. 𐙚˚࿔ Arti 𝜗𝜚˚⋆
 
-I'm a 20y/o CSE student, passionate about Product Management, UI/UX Design, and building tech products that solve real human problems. I operate at the intersection of technology, strategy, and design—leveraging my technical background to bridge the gap between complex engineering systems and user-first product experiences.
+I'm a 20y/o CSE student, passionate about Product Management, UI/UX Design, and building tech products that solve real human problems. I operate at the intersection of technology, strategy, and design-leveraging my technical background to bridge the gap between complex engineering systems and user-first product experiences.
 
-- ୨ৎ **Currently building** — User-centric web apps, product prototypes, and exploring product telemetry & data-driven features.
-- ୨ৎ **Currently learning** — Product discovery frameworks, system architecture, user research methodologies, and product analytics.
-- ୨ৎ **Identity & Passions** — Product Thinker | UI/UX Designer | Technical Builder. I love crafting seamless digital experiences, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).
-- ୨ৎ **Connect with me** — Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop an email at [chinarireddy2005@gmail.com](mailto:[chinarireddy2005@gmail.com]). 
+୨ৎ    **Currently building** : User-centric web apps, product prototypes, and exploring product telemetry & data-driven features.<br/>
+୨ৎ    **Currently learning** : Product discovery frameworks, system architecture, user research methodologies, and product analytics.<br/>
+୨ৎ    **Identity & Passions** : Product Thinker | UI/UX Designer | Technical Builder. I love crafting seamless digital experiences, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).<br/>
+୨ৎ    **Connect with me** : Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop a [mail](mailto:chinarireddy2005@gmail.com). 
 
 ────୨ৎ────
 
 #### Languages
 
 <!-- Right-aligned Top Languages breakdown card filling the bottom right -->
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhennia&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img align="right" width="380" src="https://streak-stats.demolab.com/?user=arhennia&theme=dark&hide_border=true" alt="Arti's GitHub Stats" />
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" /> &nbsp;
