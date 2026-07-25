@@ -1,6 +1,4 @@
-<table>
-  <tr>
-    <td valign="top" width="75%">
+<img align="right" width="240" src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" />
 
 ### Hi there, I'm Arti 👋
 
@@ -13,12 +11,7 @@ Currently, I am working on projects to improve my development skills while growi
 - ✦ **Identity & Passions** — Artist | Designer | Developer. I love creating aesthetic digital spaces, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).
 - ◈ **Connect with me** — Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop an email at [chinari-reddy2005@gmail.com](mailto:chinarireddy2005@gmail.com).
 
-    </td>
-    <td valign="top" width="25%" align="center">
-      <img src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" width="160" />
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
