@@ -1,42 +1,46 @@
-<div align="center">
+### Hi there, I'm Arti
 
-  # ✦ Arti
+I'm a Computer Science Engineering student passionate about product development, management, and building creative tech projects. I enjoy learning C++, Java, DSA, AI/ML, frontend development, and exploring the intersection between technology and art.
 
-  **`artist` • `designer` • `developer`**
+Currently, I am working on projects to improve my development skills while growing as a product-minded designer and programmer.
 
-  *computer science engineering student bridging engineering, UI/UX, and user-centric design*
-
-  <br/>
-
-  [![X](https://img.shields.io/badge/X-18181b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arhennia)
-  [![Instagram](https://img.shields.io/badge/Instagram-18181b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kwrtstt/)
-  [![Pinterest](https://img.shields.io/badge/Pinterest-18181b?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/arhennia/)
-  [![Spotify](https://img.shields.io/badge/Spotify-18181b?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6)
-  [![Email](https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinarireddy2005@gmail.com)
-
-</div>
+- ✦ **I’m currently working on** — full-stack web projects, honing my DSA problem-solving skills, and building user-centric interfaces.
+- ◈ **I’m currently learning** — Java backend architecture, AI/ML concepts, and UI/UX design principles.
+- ✦ **Identity & Passions** — Artist | Designer | Developer. I love creating aesthetic digital spaces, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).
+- ◈ **Connect with me** — Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop an email at [chinari-reddy2005@gmail.com](mailto:chinarireddy2005@gmail.com).
 
 ---
 
-### ◈ About Me
+<!-- Right-aligned GitHub stats card -->
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arhennia&show_icons=true&theme=rose_pine&hide_border=true&title_color=e0def4&text_color=e0def4&bg_color=191724" alt="Arti's GitHub Stats" />
 
-- **Role:** Computer Science Engineering Student
-- **Focus:** Product Development & Management, Java, DSA & AI/ML
-- **Building:** Aesthetic frontend projects & intuitive user experiences
-- **Exploring:** The sweet spot where technology meets art and human design
+#### Languages
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
+
+<br/>
+
+#### Frameworks and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" /></code>
+
+<br/>
+
+#### Focus & Interests
+
+Product Management • UI/UX Design • AI/ML • Creative Coding • Art & Tech
 
 ---
 
-### ◈ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,nextjs,git,mysql,mongodb&theme=dark" alt="Arti's Tech Stack" />
-</div>
-
----
-
-<div align="center">
-
-  *"creating comforting digital spaces, one pixel and line of code at a time."*
-
-</div>
+You can find my social profiles and contact info linked above or in the sidebar. Feel free to reach out or connect!
