@@ -1,5 +1,5 @@
-<!-- Top Right Profile Art / Image (Save your image as 'avatar.png' in repository root or update URL) -->
-<img align="right" width="200" src="./avatar.png" alt="Arti's Avatar" style="border-radius: 10px;" />
+<!-- Top Right Profile Art / Image: Upload your avatar to your GitHub repo as 'avatar.png' and uncomment the line below -->
+<!-- <img align="right" width="180" src="./avatar.png" alt="Arti's Avatar" style="border-radius: 10px;" /> -->
 
 ### Hi there, I'm Arti 👋
 
@@ -12,14 +12,12 @@ Currently, I am working on projects to improve my development skills while growi
 - ✦ **Identity & Passions** — Artist | Designer | Developer. I love creating aesthetic digital spaces, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).
 - ◈ **Connect with me** — Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop an email at [chinari-reddy2005@gmail.com](mailto:chinarireddy2005@gmail.com).
 
-<br clear="right"/>
-
 ---
 
 #### Languages
 
 <!-- Bottom Right GitHub Stats Card -->
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arhennia&show_icons=true&theme=rose_pine&hide_border=true&title_color=e0def4&text_color=e0def4&bg_color=191724" alt="Arti's GitHub Stats" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arhennia&show_icons=true&theme=dark&hide_border=true" alt="Arti's GitHub Stats" />
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" /> &nbsp;
