@@ -1,15 +1,13 @@
 <img align="right" width="240" src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" />
 
-### Hi there, I'm Arti!
+### Hi there, I'm Arti! 👋
 
-I'm a Computer Science Engineering student passionate about product development, management, and building creative tech projects. I enjoy learning C++, Java, DSA, AI/ML, frontend development, and exploring the intersection between technology and art.
+I'm a Computer Science Engineering student passionate about Product Management, UI/UX Design, and building tech products that solve real human problems. I operate at the intersection of technology, strategy, and design—leveraging my technical background to bridge the gap between complex engineering systems and user-first product experiences.
 
-Currently, I am working on projects to improve my development skills while growing as a product-minded designer and programmer.
-
-- ✦ **I’m currently working on** — full-stack web projects, honing my DSA problem-solving skills, and building user-centric interfaces.
-- ◈ **I’m currently learning** — Java backend architecture, AI/ML concepts, and UI/UX design principles.
-- ✦ **Identity & Passions** — Artist | Designer | Developer. I love creating aesthetic digital spaces, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).
-- ◈ **Connect with me** — Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop an email at [chinari-reddy2005@gmail.com](mailto:chinarireddy2005@gmail.com).
+- 🚀 **Currently building** — User-centric web apps, product prototypes, and exploring product telemetry & data-driven features.
+- 🧠 **Currently learning** — Product discovery frameworks, system architecture, user research methodologies, and product analytics.
+- 🎨 **Identity & Passions** — Product Thinker | UI/UX Designer | Technical Builder. I love crafting seamless digital experiences, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).
+- 📫 **Connect with me** — Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop an email at [chinari-reddy2005@gmail.com](mailto:chinarireddy2005@gmail.com).
 
 <br clear="right"/>
 
