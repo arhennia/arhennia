@@ -2,7 +2,7 @@
 
 ### ⋆. 𐙚˚࿔ Arti 𝜗𝜚˚⋆
 
-I'm a 20y/o CSE student, passionate about Product Management, UI/UX Design, and building tech products that solve real human problems. I operate at the intersection of technology, strategy, and design-leveraging my technical background to bridge the gap between complex engineering systems and user-first product experiences.
+I'm a 20y/o CSE student, passionate about Product Management, UI/UX Design, and building tech products that solve real human problems. I operate at the intersection of technology, strategy, and design; leveraging my technical background to bridge the gap between complex engineering systems and user-first product experiences.
 
 ୨ৎ    **Currently building** : User-centric web apps, product prototypes, and exploring product telemetry & data-driven features.<br/>
 ୨ৎ    **Currently learning** : Product discovery frameworks, system architecture, user research methodologies, and product analytics.<br/>
