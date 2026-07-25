@@ -1,4 +1,7 @@
-### Hi there, I'm Arti
+<!-- Top Right Profile Art / Image (Save your image as 'avatar.png' in repository root or update URL) -->
+<img align="right" width="200" src="./avatar.png" alt="Arti's Avatar" style="border-radius: 10px;" />
+
+### Hi there, I'm Arti 👋
 
 I'm a Computer Science Engineering student passionate about product development, management, and building creative tech projects. I enjoy learning C++, Java, DSA, AI/ML, frontend development, and exploring the intersection between technology and art.
 
@@ -9,12 +12,14 @@ Currently, I am working on projects to improve my development skills while growi
 - ✦ **Identity & Passions** — Artist | Designer | Developer. I love creating aesthetic digital spaces, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).
 - ◈ **Connect with me** — Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop an email at [chinari-reddy2005@gmail.com](mailto:chinarireddy2005@gmail.com).
 
+<br clear="right"/>
+
 ---
 
-<!-- Right-aligned GitHub stats card -->
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arhennia&show_icons=true&theme=rose_pine&hide_border=true&title_color=e0def4&text_color=e0def4&bg_color=191724" alt="Arti's GitHub Stats" />
-
 #### Languages
+
+<!-- Bottom Right GitHub Stats Card -->
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arhennia&show_icons=true&theme=rose_pine&hide_border=true&title_color=e0def4&text_color=e0def4&bg_color=191724" alt="Arti's GitHub Stats" />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" /></code>
@@ -37,9 +42,13 @@ Currently, I am working on projects to improve my development skills while growi
 
 <br/>
 
-#### Focus & Interests
+#### Interested & Exploring
 
-Product Management • UI/UX Design • AI/ML • Creative Coding • Art & Tech
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="figma" /></code>
+<code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
+<code><img height="20" src="https://simpleicons.org/icons/canva.svg" alt="canva" /></code>
+
+<br clear="right"/>
 
 ---
 
