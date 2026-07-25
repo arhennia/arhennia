@@ -1,4 +1,6 @@
-<img align="right" width="200" src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" />
+<table>
+  <tr>
+    <td valign="top" width="75%">
 
 ### Hi there, I'm Arti 👋
 
@@ -11,7 +13,12 @@ Currently, I am working on projects to improve my development skills while growi
 - ✦ **Identity & Passions** — Artist | Designer | Developer. I love creating aesthetic digital spaces, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).
 - ◈ **Connect with me** — Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop an email at [chinari-reddy2005@gmail.com](mailto:chinarireddy2005@gmail.com).
 
-<br clear="right"/>
+    </td>
+    <td valign="top" width="25%" align="center">
+      <img src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" width="160" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -25,8 +32,6 @@ Currently, I am working on projects to improve my development skills while growi
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" />
 
-<br/><br/>
-
 #### Frameworks and Tools
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" /> &nbsp;
@@ -36,14 +41,10 @@ Currently, I am working on projects to improve my development skills while growi
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
 
-<br/><br/>
-
 #### Interested & Exploring
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" />
-
-<br clear="right"/>
 
 ---
 
