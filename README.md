@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Image (Save your uploaded banner image as 'banner.png' in your repository root) -->
-  <img src="./banner.png" alt="Arti's Banner" width="100%" style="border-radius: 10px;" />
+  <img src="ChatGPT Image Jul 25, 2026, 07_00_21 PM.png" alt="Arti's Banner" width="100%" style="border-radius: 10px;" />
 
   <br/><br/>
 
