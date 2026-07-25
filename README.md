@@ -37,7 +37,9 @@ Currently, I am working on projects to improve my development skills while growi
 #### Interested & Exploring
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" /> &nbsp;
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" />
+<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" /> &nbsp;
+<img height="28" src="https://simpleicons.org/icons/adobeexpress.svg" alt="adobe express" /> &nbsp;
+<img height="28" src="https://simpleicons.org/icons/adobefresco.svg" alt="adobe fresco" />
 
 ---
 
