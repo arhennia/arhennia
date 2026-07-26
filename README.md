@@ -4,7 +4,6 @@
 
 20 y/o CSE student interested in Product Management, UI/UX, and AI. I love turning messy ideas into thoughtful experiences. I'm fascinated by the tiny details that make products feel effortless, beautiful, and genuinely enjoyable to use. If a small interaction can make someone smile, I think it's worth designing.
 
-I love turning ideas into experiences people genuinely enjoy using.
 
 ୨ৎ    **Currently building** : User-centric web apps, product prototypes, and exploring product telemetry & data-driven features.<br/>
 ୨ৎ    **Currently learning** : Product discovery frameworks, system architecture, user research methodologies, and product analytics.<br/>
