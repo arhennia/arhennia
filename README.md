@@ -1,10 +1,16 @@
 <img align="right" width="240" src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" />
 
-### ⋆. 𐙚˚࿔ Arti 𝜗𝜚˚⋆
+<div align="center">
+
+⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢<br/>
+﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
+
+</div>
+
 
 #### ╰─ ♡ about me:
 
-20 y/o CSE student interested in Product Management, UI/UX, and AI. I love turning messy ideas into thoughtful experiences. I'm fascinated by the tiny details that make products feel effortless, beautiful, and genuinely enjoyable to use. If a small interaction can make someone smile, I think it's worth designing.
+Hi! I am **Arti**, 20 y/o CSE student interested in Product Management, UI/UX, and AI. I love turning messy ideas into thoughtful experiences. I'm fascinated by the tiny details that make products feel effortless, beautiful, and genuinely enjoyable to use. If a small interaction can make someone smile, I think it's worth designing.
 
 ୨୧┇ **Currently building** : User-centric web apps, product prototypes, and exploring product telemetry & data-driven features.<br/>
 ୨୧┇ **Currently learning** : Product discovery frameworks, system architecture, user research methodologies, and product analytics.<br/>
@@ -41,8 +47,6 @@
 <img height="28" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-express-icon.svg" alt="adobe express" /> &nbsp;
 <img height="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968393.png" alt="adobe fresco" />
 
-<br clear="right"/>
 
-────୨ৎ────
 
 You can find my social profiles and contact info linked above or in the sidebar. Feel free to reach out or connect!
