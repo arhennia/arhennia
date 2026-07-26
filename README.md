@@ -21,7 +21,13 @@ Hi! I am **Arti**, 20 y/o CSE student interested in Product Management, UI/UX, a
 #### ╰─ ♡ Languages:
 
 <!-- Right-aligned Top Languages breakdown card filling the bottom right -->
-<img align="right" width="380" src="https://streak-stats.demolab.com/?user=arhennia&theme=dark&hide_border=true" alt="Arti's GitHub Stats" />
+<img
+  align="right"
+  width="380"
+  src="https://streak-stats.demolab.com/?user=arhennia&background=0D1117&hide_border=true&ring=8B6A47&fire=D6A86A&currStreakLabel=D6A86A&currStreakNum=F4EAD5&sideNums=E8DED0&sideLabels=C8C2B8&dates=8E8E8E"
+  alt="Arti's GitHub Stats"
+/>
+
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" /> &nbsp;
