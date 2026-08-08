@@ -1,4 +1,4 @@
-<img align="right" width="240" src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" />
+<img align="right" width="220" src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" />
 
 <div align="center">
 
@@ -7,20 +7,30 @@
 
 </div>
 
-
 #### ╰─ ♡ about me:
 
-Hi! I am **Arti**, 20 y/o CSE student interested in Product Management, UI/UX, and AI. I love turning messy ideas into thoughtful experiences. I'm fascinated by the tiny details that make products feel effortless, beautiful, and genuinely enjoyable to use. If a small interaction can make someone smile, I think it's worth designing.
+Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design—turning complex workflows into seamless, user-centric experiences.
 
-୨୧┇ **Currently building** : User-centric web apps, product prototypes, and exploring product telemetry & data-driven features.<br/>
-୨୧┇ **Currently learning** : Product discovery frameworks, system architecture, user research methodologies, and product analytics.<br/>
-୨୧┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Technical Builder. I love crafting seamless digital experiences, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and gathering design inspiration on [Pinterest](https://in.pinterest.com/arhennia/).<br/>
-୨୧┇ **Connect with me** : Find me on [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), or drop a [mail](mailto:chinarireddy2005@gmail.com). 
+୨୧┇ **Currently Building** : 
+- ✦ **[Aura](https://github.com/arhennia)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.
+- ✦ **[PaperLens](https://github.com/arhennia)** — A web platform helping students analyze and break down past exam papers efficiently.
 
+୨୧┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.
+୨୧┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/).
+୨୧┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), [LinkedIn](https://linkedin.com/in/arhennia), or drop an [email](mailto:chinarireddy2005@gmail.com).
 
-#### ╰─ ♡ Languages:
+---
 
-<!-- Right-aligned Top Languages breakdown card filling the bottom right -->
+#### ╰─ ♡ Featured Projects:
+
+| Project | Description | Stack / Focus |
+| :--- | :--- | :--- |
+| **Aura** | AI-driven SaaS platform designed for beauty salon business management & intelligent scheduling. | React, Node.js, AI Integration, UI/UX |
+| **PaperLens** | Interactive web app for students to analyze exam paper patterns and key topic frequencies. | Next.js, Python, Analytics |
+| **TwinHaus** | 4-layer smart building digital twin architecture proposal built for hackathon IoT management. | ESP32, MQTT, Digital Twin UI |
+
+---
+
 <img
   align="right"
   width="380"
@@ -28,16 +38,17 @@ Hi! I am **Arti**, 20 y/o CSE student interested in Product Management, UI/UX, a
   alt="Arti's GitHub Stats"
 />
 
+#### ╰─ ♡ Languages:
 
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" /> &nbsp;
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" /> &nbsp;
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" /> &nbsp;
+<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" /> &nbsp;
+<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" /> &nbsp;
+<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" />
 
-#### ╰─ ♡ Frameworks and Tools:
+#### ╰─ ♡ Frameworks & Tools:
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" /> &nbsp;
@@ -46,13 +57,17 @@ Hi! I am **Arti**, 20 y/o CSE student interested in Product Management, UI/UX, a
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
 
-#### ╰─ ♡ Interested & Exploring:
+#### ╰─ ♡ Design & Product Workflow:
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" /> &nbsp;
 <img height="28" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-express-icon.svg" alt="adobe express" /> &nbsp;
 <img height="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968393.png" alt="adobe fresco" />
 
+<br/><br/>
 
+<div align="center">
 
-You can find my social profiles and contact info linked above or in the sidebar. Feel free to reach out or connect!
+*“If a small interaction can make someone smile, it’s worth designing.”*
+
+</div>
