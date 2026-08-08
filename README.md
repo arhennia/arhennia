@@ -11,15 +11,15 @@
 
 Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design—turning complex workflows into seamless, user-centric experiences.
 
-୨୧┇ **Currently Building** : 
-- ✦ **[Aura](https://github.com/arhennia)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.
-- ✦ **[PaperLens](https://github.com/arhennia)** — A web platform helping students analyze and break down past exam papers efficiently.
+୨୧┇ **Currently Building** : <br/>
+ ✦ **[Aura](https://github.com/arhennia)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
+ ✦ **[PaperLens](https://github.com/arhennia)** — A web platform helping students analyze and break down past exam papers efficiently.<br/>
 
-୨୧┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.
-୨୧┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/).
+୨୧┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.<br/>
+୨୧┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/). <br/>
 ୨୧┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), [LinkedIn](https://linkedin.com/in/arhennia), or drop an [email](mailto:chinarireddy2005@gmail.com).
 
----
+
 
 #### ╰─ ♡ Featured Projects:
 
@@ -27,9 +27,9 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 | :--- | :--- | :--- |
 | **Aura** | AI-driven SaaS platform designed for beauty salon business management & intelligent scheduling. | React, Node.js, AI Integration, UI/UX |
 | **PaperLens** | Interactive web app for students to analyze exam paper patterns and key topic frequencies. | Next.js, Python, Analytics |
-| **TwinHaus** | 4-layer smart building digital twin architecture proposal built for hackathon IoT management. | ESP32, MQTT, Digital Twin UI |
+| **InCaseYou** | A soft interactive web app where friends can create and share comforting little moments. | CSS, Javascript, HTML |
 
----
+
 
 <img
   align="right"
