@@ -12,12 +12,12 @@
 Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design—turning complex workflows into seamless, user-centric experiences.
 
 ୨୧┇ **Currently Building** : <br/>
- ✦ **[Aura](https://github.com/arhennia)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
- ✦ **[PaperLens](https://github.com/arhennia)** — A web platform helping students analyze and break down past exam papers efficiently.<br/>
+ ✦ **[AtEase](https://github.com/arhennia/AtEase)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
+ ✦ **[PaperLens](https://github.com/arhennia/PaperLens)** — A web platform helping students analyze and break down past exam papers efficiently.<br/>
 
 ୨୧┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.<br/>
 ୨୧┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/). <br/>
-୨୧┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), [LinkedIn](https://linkedin.com/in/arhennia), or drop an [email](mailto:chinarireddy2005@gmail.com).
+୨୧┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), [LinkedIn](https://linkedin.com/in/arhennia), or drop an [email](mailto:arhennia@gmail.com).
 
 
 
