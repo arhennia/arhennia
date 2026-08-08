@@ -25,7 +25,7 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 
 | Project | Description | Stack / Focus |
 | :--- | :--- | :--- |
-| **Aura** | AI-driven SaaS platform designed for beauty salon business management & intelligent scheduling. | React, Node.js, AI Integration, UI/UX |
+| **AtEase** | AI-driven SaaS platform designed for beauty salon business management & intelligent scheduling. | React, Node.js, AI Integration, UI/UX |
 | **PaperLens** | Interactive web app for students to analyze exam paper patterns and key topic frequencies. | Next.js, Python, Analytics |
 | **InCaseYou** | A soft interactive web app where friends can create and share comforting little moments. | CSS, Javascript, HTML |
 
