@@ -17,7 +17,7 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 
 ୨୧┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.<br/>
 ୨୧┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/). <br/>
-୨୧┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/kwrtstt/), [LinkedIn](https://linkedin.com/in/arhennia), or drop an [email](mailto:arhennia@gmail.com).
+୨୧┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/arhyatelier/), or drop an [email](mailto:arhennia@gmail.com).
 
 
 
