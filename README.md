@@ -69,7 +69,9 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
   <img src="https://count.getloli.com/@arhennia?name=arhennia&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" width="360px" alt="Visitor Counter" />
 </div>
 
-<br/>
+<p align="right">
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/arhennia/arhennia.json?color=8B6A47&style=social" alt="views" />
+</p>
 
 <div align="center">
 
