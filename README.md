@@ -9,7 +9,7 @@
 
 #### ╰─ ♡ about me:
 
-Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design—turning complex workflows into seamless, user-centric experiences.
+Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design-turning complex workflows into seamless, user-centric experiences.
 
 ୨୧┇ **Currently Building** : <br/>
   ✦ **[AtEase](https://github.com/arhennia/AtEase)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
