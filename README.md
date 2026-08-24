@@ -68,6 +68,6 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 
 <div align="center">
 
-*“If a small interaction can make someone smile, it’s worth designing.”*
+*♡ “If a small interaction can make someone smile, it’s worth designing.” ♡*
 
 </div>
