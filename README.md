@@ -12,8 +12,8 @@
 Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design—turning complex workflows into seamless, user-centric experiences.
 
 ୨୧┇ **Currently Building** : <br/>
- ✦ **[AtEase](https://github.com/arhennia/AtEase)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
- ✦ **[PaperLens](https://github.com/arhennia/PaperLens)** — A web platform helping students analyze and break down past exam papers efficiently.<br/>
+  ✦ **[AtEase](https://github.com/arhennia/AtEase)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
+  ✦ **[PaperLens](https://github.com/arhennia/PaperLens)** — A web platform helping students analyze and break down past exam papers efficiently.<br/>
 
 ୨୧┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.<br/>
 ୨୧┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/). <br/>
@@ -28,7 +28,6 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 | **AtEase** | AI-driven SaaS platform designed for beauty salon business management & intelligent scheduling. | React, Node.js, AI Integration, UI/UX |
 | **PaperLens** | Interactive web app for students to analyze exam paper patterns and key topic frequencies. | Next.js, Python, Analytics |
 | **InCaseYou** | A soft interactive web app where friends can create and share comforting little moments. | CSS, Javascript, HTML |
-
 
 
 <img
@@ -65,6 +64,12 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 <img height="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968393.png" alt="adobe fresco" />
 
 <br/><br/>
+
+<div align="center">
+  <img src="https://count.getloli.com/@arhennia?name=arhennia&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" width="360px" alt="Visitor Counter" />
+</div>
+
+<br/>
 
 <div align="center">
 
