@@ -7,6 +7,7 @@
 
 </div>
 
+
 #### ╰─ ♡ about me:
 
 Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design-turning complex workflows into seamless, user-centric experiences.
