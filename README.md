@@ -3,26 +3,26 @@
 
 <div align="center">
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢<br/>
-﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
+﹉﹉﹉﹉⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆﹉﹉﹉﹉
 
 </div>
 
 
-#### ╰─ ♡ about me:
+#### ╰─ ♰ about me:
 
 Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design-turning complex workflows into seamless, user-centric experiences.
 
-୨୧┇ **Currently Building** : <br/>
-  ✦ **[AtEase](https://github.com/arhennia/AtEase)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
-  ✦ **[PaperLens](https://github.com/arhennia/PaperLens)** — A web platform helping students analyze and break down past exam papers efficiently.<br/>
+𖥔┇ **Currently Building** : <br/>
+    𓆩𓆪 **[AtEase](https://github.com/arhennia/AtEase)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
+    𓆩𓆪 **[PaperLens](https://github.com/arhennia/PaperLens)** — A web platform helping students analyze and break down past exam papers efficiently.<br/>
 
-୨୧┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.<br/>
-୨୧┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/). <br/>
-୨୧┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/arhyatelier/), or drop an [email](mailto:arhennia@gmail.com).
+𖥔┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.<br/>
+𖥔┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/). <br/>
+𖥔┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/arhyatelier/), or drop an [email](mailto:arhennia@gmail.com).
 
 
 
-#### ╰─ ♡ Featured Projects:
+#### ╰─ ♰ Featured Projects:
 
 | Project | Description | Stack / Focus |
 | :--- | :--- | :--- |
@@ -38,7 +38,7 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
   alt="Arti's GitHub Stats"
 />
 
-#### ╰─ ♡ Languages:
+#### ╰─ ♰ Languages:
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" /> &nbsp;
@@ -48,7 +48,7 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" />
 
-#### ╰─ ♡ Frameworks & Tools:
+#### ╰─ ♰ Frameworks & Tools:
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" /> &nbsp;
@@ -57,7 +57,7 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" />
 
-#### ╰─ ♡ Design & Product Workflow:
+#### ╰─ ♰ Design & Product Workflow:
 
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" /> &nbsp;
 <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" /> &nbsp;
@@ -76,6 +76,6 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 
 <div align="center">
 
-*♡ “If a small interaction can make someone smile, it’s worth designing.” ♡*
+*𖤍 “If a small interaction can make someone smile, it’s worth designing.” 𖤍 *
 
 </div>
