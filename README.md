@@ -1,6 +1,4 @@
-<img align="right" width="220" src="ChatGPT%20Image%20Jul%2025%2C%202026%2C%2007_57_26%20PM.png" alt="Arti's Avatar" />
 
-<div align="center">
 
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢<br/>
 ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
