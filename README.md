@@ -34,7 +34,7 @@ i live somewhere between **product**, **ui/ux**, and **ai** taking messy systems
 <img
   align="right"
   width="380"
-  src="https://streak-stats.demolab.com/?user=arhennia&background=F7A8B8&hide_border=true&ring=A3122A&fire=A3122A&currStreakLabel=2B1820&currStreakNum=2B1820&sideNums=2B1820&sideLabels=A3122A&dates=6E4150"
+  src="https://streak-stats.demolab.com/?user=arhennia&background=FCC9CD&hide_border=true&ring=A3122A&fire=A3122A&currStreakLabel=2B1820&currStreakNum=2B1820&sideNums=2B1820&sideLabels=A3122A&dates=6E4150"
   alt="github streak"
 />
 
