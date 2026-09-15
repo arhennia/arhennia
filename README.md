@@ -26,9 +26,9 @@ i live somewhere between **product**, **ui/ux**, and **ai** taking messy systems
 
 | ⋆ | project | what it is | key capabilities | made with |
 | :---: | :--- | :--- | :--- | :--- |
-| ♰ | **[AtEase](https://github.com/arhennia/AtEase)** | appointment & client management SaaS for beauty & salon solopreneurs | seamless booking, automated client messaging, and business analytics | react · supabase · tailwind |
-| ☽ | **[PaperLens](https://github.com/arhennia/PaperLens)** | AI-powered past exam paper analysis platform | parses exam archives to extract high-frequency topics & recurring question patterns | next.js · python · ai |
-| ❦ | **[InCaseYou](https://github.com/arhennia/InCaseYou)** | interactive digital capsule & letter platform | custom multimedia messaging space for leaving personal letters & notes for friends | html · css · javascript |
+|🍷| **[AtEase](https://github.com/arhennia/AtEase)** | appointment & client management SaaS for beauty & salon solopreneurs | seamless booking, automated client messaging, and business analytics | react · supabase · tailwind |
+|🥀| **[PaperLens](https://github.com/arhennia/PaperLens)** | AI-powered past exam paper analysis platform | parses exam archives to extract high-frequency topics & recurring question patterns | next.js · python · ai |
+|🍎| **[InCaseYou](https://github.com/arhennia/InCaseYou)** | interactive digital capsule & letter platform | custom multimedia messaging space for leaving personal letters & notes for friends | html · css · javascript |
 <br/>
 
 <img
