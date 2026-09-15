@@ -1,41 +1,41 @@
-
-
-
 <div align="center">
+
+<h1 style="border-bottom: none;">arhennia</h1>
+
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢<br/>
-﹉﹉﹉﹉⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆﹉﹉﹉﹉
+﹉﹉﹉﹉⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆﹉﹉﹉﹉<br/>
 
 </div>
 
+#### ╰─ ♰ about me
 
-#### ╰─ ♰ about me:
+i live somewhere between **product**, **ui/ux**, and **ai** taking messy systems and making them feel like they were always meant to be gentle. i like work that looks soft and still has teeth.
 
-Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate about **Product Management**, **UI/UX Design**, and **AI**. I focus on bridging technical systems with intuitive design-turning complex workflows into seamless, user-centric experiences.
+𖥔 ┇ **building** :
+<br/>
+  𓆩𓆪 **[AtEase](https://github.com/arhennia/AtEase)** — a white-label SaaS for solopreneurs to manage bookings, messaging, and analytics.
+<br/>
+  𓆩𓆪 **[PaperLens](https://github.com/arhennia/PaperLens)** — a quiet desk lamp for students. past papers, pulled apart, made readable.
 
-𖥔┇ **Currently Building** : <br/>
-    𓆩𓆪 **[AtEase](https://github.com/arhennia/AtEase)** — An AI-powered SaaS platform tailored for independent beauty salon management and scheduling.<br/>
-    𓆩𓆪 **[PaperLens](https://github.com/arhennia/PaperLens)** — A web platform helping students analyze and break down past exam papers efficiently.<br/>
-
-𖥔┇ **Currently Exploring** : Product discovery frameworks, telemetry & analytics, enterprise user flows, and system architecture.<br/>
-𖥔┇ **Identity & Passions** : Product Thinker | UI/UX Designer | Full-Stack Builder. I love micro-interactions, dark aesthetic UI, listening to music on [Spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6), and curating visual concepts on [Pinterest](https://in.pinterest.com/arhennia/). <br/>
-𖥔┇ **Connect with me** : Reach out via [X (Twitter)](https://x.com/arhennia), [Instagram](https://www.instagram.com/arhyatelier/), or drop an [email](mailto:arhennia@gmail.com).
+𖥔 ┆ **focus** : product design · ui/ux · full-stack development · system architecture <br/>
+𖥔 ┆ **beyond code** : art, fashion, dancing, cooking, cats, apples, curation on [pinterest](https://in.pinterest.com/arhennia/), & heavy rotation on [spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6) <br/>
+𖥔 ┇ **find me** :  [x / twitter](https://x.com/arhennia) · [instagram](https://www.instagram.com/arhyatelier/) · [mail](mailto:arhennia@gmail.com)
 
 
+#### ╰─ ♰ featured
 
-#### ╰─ ♰ Featured Projects:
-
-| Project | Description | Stack / Focus |
-| :--- | :--- | :--- |
-| **AtEase** | AI-driven SaaS platform designed for beauty salon business management & intelligent scheduling. | React, Node.js, AI Integration, UI/UX |
-| **PaperLens** | Interactive web app for students to analyze exam paper patterns and key topic frequencies. | Next.js, Python, Analytics |
-| **InCaseYou** | A soft interactive web app where friends can create and share comforting little moments. | CSS, Javascript, HTML |
-
+| ⋆ | project | what it is | key capabilities | made with |
+| :---: | :--- | :--- | :--- | :--- |
+| ♰ | **[AtEase](https://github.com/arhennia/AtEase)** | appointment & client management SaaS for beauty & salon solopreneurs | seamless booking, automated client messaging, and business analytics | react · supabase · tailwind |
+| ☽ | **[PaperLens](https://github.com/arhennia/PaperLens)** | AI-powered past exam paper analysis platform | parses exam archives to extract high-frequency topics & recurring question patterns | next.js · python · ai |
+| ❦ | **[InCaseYou](https://github.com/arhennia/InCaseYou)** | interactive digital capsule & letter platform | custom multimedia messaging space for leaving personal letters & notes for friends | html · css · javascript |
+<br/>
 
 <img
   align="right"
   width="380"
-  src="https://streak-stats.demolab.com/?user=arhennia&background=0D1117&hide_border=true&ring=8B6A47&fire=D6A86A&currStreakLabel=D6A86A&currStreakNum=F4EAD5&sideNums=E8DED0&sideLabels=C8C2B8&dates=8E8E8E"
-  alt="Arti's GitHub Stats"
+  src="https://streak-stats.demolab.com/?user=arhennia&background=F7A8B8&hide_border=true&ring=A3122A&fire=A3122A&currStreakLabel=2B1820&currStreakNum=2B1820&sideNums=2B1820&sideLabels=A3122A&dates=6E4150"
+  alt="github streak"
 />
 
 #### ╰─ ♰ Languages:
@@ -64,18 +64,12 @@ Hi! I'm **Arti**, a 20 y/o Computer Science & Engineering student passionate abo
 <img height="28" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-express-icon.svg" alt="adobe express" /> &nbsp;
 <img height="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968393.png" alt="adobe fresco" />
 
-<br/><br/>
-
 <div align="center">
-  <img src="https://count.getloli.com/@arhennia?name=arhennia&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" width="360px" alt="Visitor Counter" />
-</div>
-
-<p align="right">
-  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/arhennia/arhennia.json?color=8B6A47&style=social" alt="views" />
-</p>
-
-<div align="center">
-
-*𖤍 “If a small interaction can make someone smile, it’s worth designing.” 𖤍 *
-
+  <img src="https://count.getloli.com/@arhennia?name=arhennia&theme=rule34&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" width="360" alt="visitors" />
+  <br/><br/>
+  ﹉﹉﹉﹉⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆﹉﹉﹉﹉
+  <br/><br/>
+  <i>𖤍 if it can make someone feel looked-after, it is worth designing. 𖤍</i>
+  <br/>
+  <sub><i>⋆ krul-coded. moonlit. still shipping. ⋆</i></sub>
 </div>
