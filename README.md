@@ -2,6 +2,8 @@
 
 <h1 style="border-bottom: none;">arhennia</h1>
 
+<img src="./♡.jpg" alt="header image" width="100%" />
+
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢<br/>
 ﹉﹉﹉﹉⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆﹉﹉﹉﹉<br/>
 
