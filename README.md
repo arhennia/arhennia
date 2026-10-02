@@ -8,6 +8,7 @@
 ﹉﹉﹉﹉⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆﹉﹉﹉﹉<br/>
 
 </div>
+
 #### ╰─ ♰ about me
 i live somewhere between **product**, **ui/ux**, and **ai** taking messy systems and making them feel like they were always meant to be gentle. i like work that looks soft and still has teeth.
 𖥔 ┇ **building** :
