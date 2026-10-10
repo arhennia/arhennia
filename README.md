@@ -70,6 +70,7 @@ i live somewhere between **product**, **ui/ux**, and **ai** taking messy systems
   <br/><br/>
   ﹉﹉﹉﹉⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆﹉﹉﹉﹉
   <br/><br/>
+  
   <i>𖤍 if it can make someone feel looked-after, it is worth designing. 𖤍</i>
   <br/>
   <sub><i>⋆ krul-coded. moonlit. still shipping. ⋆</i></sub>
