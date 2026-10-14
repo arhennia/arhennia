@@ -14,9 +14,11 @@ i live somewhere between **product**, **ui/ux**, and **ai** taking messy systems
 
 𖥔 ┇ **building** :
 <br/>
-  𓆩𓆪 **[AtEase](https://github.com/arhennia/AtEase)** — a white-label SaaS for solopreneurs to manage bookings, messaging, and analytics.
+  𓆩𓆪 **[AtEase](https://github.com/arhennia/AtEase)** — a white-label booking home for solo studios. each brand gets its own client site. bookings, clients, and analytics stay on their side of the wall.
 <br/>
-  𓆩𓆪 **[PaperLens](https://github.com/arhennia/PaperLens)** — a quiet desk lamp for students. past papers, pulled apart, made readable.
+  𓆩𓆪 **[FitRank](https://github.com/arhennia/FitRank)** — fashion ranked by intent. seven questions, a score you can read, and the trade-offs left in the open.
+<br/>
+  𓆩𓆪 **[FoveaDrive](https://github.com/arhennia/FoveaDrive)** — a team build. i took the terrain engine and made the interface: vehicle sliders, a drivability map, something a person can actually look at.
 
 𖥔 ┆ **focus** : product design · ui/ux · full-stack development · system architecture <br/>
 𖥔 ┆ **beyond code** : art, fashion, dancing, cooking, cats, apples, curation on [pinterest](https://in.pinterest.com/arhennia/), & heavy rotation on [spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6) <br/>
@@ -27,9 +29,9 @@ i live somewhere between **product**, **ui/ux**, and **ai** taking messy systems
 
 | ⋆ | project | what it is | key capabilities | made with |
 | :---: | :--- | :--- | :--- | :--- |
-|🍷| **[AtEase](https://github.com/arhennia/AtEase)** | appointment & client management SaaS for beauty & salon solopreneurs | seamless booking, automated client messaging, and business analytics | react · supabase · tailwind |
-|🥀| **[PaperLens](https://github.com/arhennia/PaperLens)** | AI-powered past exam paper analysis platform | parses exam archives to extract high-frequency topics & recurring question patterns | next.js · python · ai |
-|🍎| **[InCaseYou](https://github.com/arhennia/InCaseYou)** | interactive digital capsule & letter platform | custom multimedia messaging space for leaving personal letters & notes for friends | html · css · javascript |
+|🍷| **[AtEase](https://github.com/arhennia/AtEase)** | white-label booking home for solo studios. each brand gets its own client site | isolated booking, owner dashboard, google & phone sign-in, client history and analytics | react · vite · supabase · tailwind |
+|🥀| **[FitRank](https://github.com/arhennia/FitRank)** | fashion discovery ranked by why you are buying, with the trade-offs left visible | intent questionnaire, hard constraints before scoring, an explainable 0–100 rank, diversity when the search wanders | html · css · javascript |
+|🍎| **[FoveaDrive](https://github.com/arhennia/FoveaDrive)** · *team, ui/ux* | adaptive terrain map that asks whether this vehicle can actually drive it | live clearance, width, and wheel sliders, and a color-coded drivability map | react · typescript · tailwind |
 <br/>
 
 <img
