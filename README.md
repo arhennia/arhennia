@@ -18,7 +18,7 @@ i live somewhere between **product**, **ui/ux**, and **ai** taking messy systems
 <br/>
   𓆩𓆪 **[FitRank](https://github.com/arhennia/FitRank)** — fashion ranked by intent. seven questions, a score you can read, and the trade-offs left in the open.
 <br/>
-  𓆩𓆪 **[FoveaDrive](https://github.com/arhennia/FoveaDrive)** — a team build. i took the terrain engine and made the interface: vehicle sliders, a drivability map, something a person can actually look at.
+
 
 𖥔 ┆ **focus** : product design · ui/ux · full-stack development · system architecture <br/>
 𖥔 ┆ **beyond code** : art, fashion, dancing, cooking, cats, apples, curation on [pinterest](https://in.pinterest.com/arhennia/), & heavy rotation on [spotify](https://open.spotify.com/user/ldo03cnekjbl7ta7x2139pcb6) <br/>
